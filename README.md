@@ -18,7 +18,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Power Apps Version
 
-![Download Power Apps](./FMQRCodeComponent.msapp)
+[📱 Download Power Apps Component](./FMQRCodeComponent.msapp)
 
 ### Screenshot
 
