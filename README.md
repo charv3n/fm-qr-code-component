@@ -16,6 +16,10 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Overview
 
+### Power Apps Version
+
+![Download Power Apps](./FMQRCodeComponent.msapp)
+
 ### Screenshot
 
 ![My Solution Screenshot](./screenshot.png)
